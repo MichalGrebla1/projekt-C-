@@ -10,7 +10,12 @@ namespace SongSwears
     {
         static void Main(string[] args)
         {
-            var songAnalysis = new SongAnalysis("Kazik", "12 groszy");
+            //var songAnalysis = new SongAnalysis("Kazik", "12 groszy");
+            var text = "programowanie jest w chuj fajne";
+            var censor = new Censor();
+            Console.WriteLine(censor.Fix(text));
+
+            Console.ReadLine();
         }
     }
 }

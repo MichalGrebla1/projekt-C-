@@ -8,3 +8,14 @@ D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.pdb
 D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\bin\Debug\Newtonsoft.Json.dll
 D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\bin\Debug\Newtonsoft.Json.xml
 D:\Users\kamil.jamroz\Desktop\songswears\SongSwears\obj\Debug\SongSwears.csproj.CopyComplete
+D:\Users\michal.grebla\Desktop\123\SongSwears\bin\Debug\SongSwears.exe.config
+D:\Users\michal.grebla\Desktop\123\SongSwears\bin\Debug\SongSwears.exe
+D:\Users\michal.grebla\Desktop\123\SongSwears\bin\Debug\SongSwears.pdb
+D:\Users\michal.grebla\Desktop\123\SongSwears\bin\Debug\Newtonsoft.Json.dll
+D:\Users\michal.grebla\Desktop\123\SongSwears\bin\Debug\Newtonsoft.Json.xml
+D:\Users\michal.grebla\Desktop\123\SongSwears\obj\Debug\SongSwears.csprojAssemblyReference.cache
+D:\Users\michal.grebla\Desktop\123\SongSwears\obj\Debug\SongSwears.csproj.CoreCompileInputs.cache
+D:\Users\michal.grebla\Desktop\123\SongSwears\obj\Debug\SongSwears.csproj.CopyComplete
+D:\Users\michal.grebla\Desktop\123\SongSwears\obj\Debug\SongSwears.exe
+D:\Users\michal.grebla\Desktop\123\SongSwears\obj\Debug\SongSwears.pdb
+D:\Users\michal.grebla\Desktop\123\SongSwears\bin\Debug\profanities.txt
