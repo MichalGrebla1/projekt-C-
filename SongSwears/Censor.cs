@@ -6,7 +6,7 @@ namespace SongSwears
 {
     internal class Censor
     {
-        string[] badwords;
+       protected string[] badwords;
         public Censor()
         {
             var profanitiesfile = File.ReadAllText("profanities.txt");

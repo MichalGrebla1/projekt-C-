@@ -10,12 +10,31 @@ namespace SongSwears
     {
         static void Main(string[] args)
         {
-            //var songAnalysis = new SongAnalysis("Kazik", "12 groszy");
-            var text = "programowanie jest w chuj fajne";
+            var EminemSwearStats = new SwearStats();
+           var song = new Song("Eminem", "Rap god");
+            EminemSwearStats.AddSwearsFrom(song);
+           
             var censor = new Censor();
-            Console.WriteLine(censor.Fix(text));
+            Console.WriteLine(censor.Fix(song.lyric));
 
             Console.ReadLine();
+        }
+    }
+
+     class SwearStats : Censor
+    {
+        Dictionary<string, int> przeklenstwa = new Dictionary<string, int>();
+        public SwearStats()
+        {
+            
+        }
+
+        public void AddSwearsFrom(Song song)
+        {
+            foreach (var badwords in badwords)
+            {
+                song.CountOccurences(badwords);
+            }
         }
     }
 }
